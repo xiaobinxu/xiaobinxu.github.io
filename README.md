@@ -1,6 +1,14 @@
 ## Welcome to Xiaobin's Homepage
 
-This is a temporary homepage built on Github pages for test. Please wait for more update later ^_^
+This is a temporary homepage built on Github pages for test. 
+
+Please wait for more update later ^_^
+
+Thanks for coming!
+
+===
+
+### Unrelated stuff ......
 
 You can use the [editor on GitHub](https://github.com/xiaobinxu/xiaobinxu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
