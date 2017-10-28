@@ -1,4 +1,4 @@
-## Welcome to Xiaobin's Homepage
+### About
 
 Xiaobin Xu is currently a PhD student in [CS@CityU](http://www.cs.cityu.edu.hk/). He obtained a bachelor degree in [EEIS@USTC](http://eeis.ustc.edu.cn) in 2011. His research interests reside in Computer Vision, Graphics, and Image Editing & Filtering.
 
