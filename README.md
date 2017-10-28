@@ -1,47 +1,25 @@
 ## Welcome to Xiaobin's Homepage
 
-This is a temporary homepage built on Github pages for test. 
+Xiaobin Xu is currently a PhD student in [CS@CityU](http://www.cs.cityu.edu.hk/). He obtained a bachelor degree in [EEIS@USTC](http://eeis.ustc.edu.cn) in 2011. His research interests reside in Computer Vision, Graphics, and Image Editing & Filtering.
 
-Please wait for more update later ^_^
 
-Thanks for coming!
+### Publications
 
-===
+**Specular Highlight Reduction With Known Surface Geometry**  
+Xing Wei, **Xiaobin Xu**, Jiawei Zhang, Yihong Gong  
+_Computer Vision and Image Understanding_ (**CVIU**), 2017  
+\[ [Accepted Manuscript](http://www.sciencedirect.com/science/article/pii/S107731421730173X) \]
 
-### Unrelated stuff ......
+**A Hand Pose Tracking Benchmark From Stereo Matching**  
+Jiawei Zhang, Jianbo Jiao, Mingliang Chen, Liangqiong Qu, **Xiaobin Xu**, Qingxiong Yang  
+_IEEE International Conference on Image Processing_ (**ICIP**), **Oral**, 2017  
+\[ [PDF](http://www.cs.cityu.edu.hk/~jianbjiao2/pdfs/icip.pdf) | [Data](https://sites.google.com/site/zhjw1988/) \]
 
-You can use the [editor on GitHub](https://github.com/xiaobinxu/xiaobinxu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Decolorization: Is rgb2gray() Out?**  
+Yibing Song, Linchao Bao, **Xiaobin Xu** and Qingxiong Yang,  
+_ACM SIGGRAPH ASIA Technical Briefs_, 2013  
+\[ [PDF](http://www.cs.cityu.edu.hk/~yibisong/siga13tb/siga13tb_final.pdf) | [Project Page](http://www.cs.cityu.edu.hk/~yibisong/siga13tb/index.html) \]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xiaobinxu/xiaobinxu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**AMIGO: Accurate mobile image geotagging**  
+**Xiaobin Xu**, Tao Mei, Wenjun Zeng, Nenghai Yu, Jiebo Luo  
+_ACM International Conference on Internet Multimedia Computing and Service_ (**ICIMCS**), **Best Paper Award**, 2012
