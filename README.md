@@ -26,3 +26,6 @@ _ACM SIGGRAPH ASIA Technical Briefs_, 2013
 _ACM International Conference on Internet Multimedia Computing and Service_ (**ICIMCS**), 2012, **Best Paper Award**  
 \[ [PDF](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/icimcs12.53.camera.pdf) \]
 
+
+### Contact
+mail \_at\_ xiaobinxu.com
