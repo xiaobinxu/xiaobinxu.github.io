@@ -6,7 +6,7 @@ Xiaobin Xu is currently a PhD student in [CS@CityU](http://www.cs.cityu.edu.hk/)
 ### Publications
 
 **Specular Highlight Reduction With Known Surface Geometry**  
-Xing Wei*, **Xiaobin Xu***, Jiawei Zhang, Yihong Gong  
+Xing Wei\*, **Xiaobin Xu**\*, Jiawei Zhang, Yihong Gong  
 _\[* indicates equal contribution\]_  
 _Computer Vision and Image Understanding_ (**CVIU**), 2017  
 \[ [Accepted Manuscript](http://www.sciencedirect.com/science/article/pii/S107731421730173X) \]
