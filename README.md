@@ -16,7 +16,7 @@ _IEEE International Conference on Image Processing_ (**ICIP**), **Oral**, 2017
 \[ [PDF](http://www.cs.cityu.edu.hk/~jianbjiao2/pdfs/icip.pdf) | [Data](https://sites.google.com/site/zhjw1988/) \]
 
 **Decolorization: Is rgb2gray() Out?**  
-Yibing Song, Linchao Bao, **Xiaobin Xu** and Qingxiong Yang,  
+Yibing Song, Linchao Bao, **Xiaobin Xu**, Qingxiong Yang  
 _ACM SIGGRAPH ASIA Technical Briefs_, 2013  
 \[ [PDF](http://www.cs.cityu.edu.hk/~yibisong/siga13tb/siga13tb_final.pdf) | [Project Page](http://www.cs.cityu.edu.hk/~yibisong/siga13tb/index.html) \]
 
