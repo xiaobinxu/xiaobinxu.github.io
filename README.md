@@ -21,7 +21,7 @@ _ACM SIGGRAPH ASIA Technical Briefs_, 2013
 \[ [PDF](http://www.cs.cityu.edu.hk/~yibisong/siga13tb/siga13tb_final.pdf) | [Project Page](http://www.cs.cityu.edu.hk/~yibisong/siga13tb/index.html) \]
 
 **AMIGO: Accurate Mobile Image Geotagging**  
-**Xiaobin Xu**, Tao Mei, Wenjun Zeng, Nenghai Yu, Jiebo Luo   
+**Xiaobin Xu**, Tao Mei, Wenjun Zeng, Nenghai Yu, Jiebo Luo  
 _ACM International Conference on Internet Multimedia Computing and Service_ (**ICIMCS**), **Best Paper Award**, 2012  
 \[ [PDF](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/icimcs12.53.camera.pdf) \]
 
