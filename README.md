@@ -13,7 +13,7 @@ _Computer Vision and Image Understanding_ (**CVIU**), 2017
 
 **A Hand Pose Tracking Benchmark From Stereo Matching**  
 Jiawei Zhang, Jianbo Jiao, Mingliang Chen, Liangqiong Qu, **Xiaobin Xu**, Qingxiong Yang  
-_IEEE International Conference on Image Processing_ (**ICIP**), **Oral**, 2017  
+_IEEE International Conference on Image Processing_ (**ICIP**), 2017  
 \[ [PDF](http://www.cs.cityu.edu.hk/~jianbjiao2/pdfs/icip.pdf) | [Data](https://sites.google.com/site/zhjw1988/) \]
 
 **Decolorization: Is rgb2gray() Out?**  
@@ -23,6 +23,6 @@ _ACM SIGGRAPH ASIA Technical Briefs_, 2013
 
 **AMIGO: Accurate Mobile Image Geotagging**  
 **Xiaobin Xu**, Tao Mei, Wenjun Zeng, Nenghai Yu, Jiebo Luo  
-_ACM International Conference on Internet Multimedia Computing and Service_ (**ICIMCS**), **Best Paper Award**, 2012  
+_ACM International Conference on Internet Multimedia Computing and Service_ (**ICIMCS**), 2012, **Best Paper Award**  
 \[ [PDF](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/icimcs12.53.camera.pdf) \]
 
