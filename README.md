@@ -32,4 +32,4 @@ _ACM International Conference on Internet Multimedia Computing and Service_ (**I
 
 
 ### Contact
-mail \_at\_ xiaobinxu.com
+xbxu \_at\_ outlook.com
