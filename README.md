@@ -7,7 +7,7 @@ Xiaobin Xu was a PhD student in [CS@CityU](http://www.cs.cityu.edu.hk/). He obta
 
 **HTCN: Harmonious Text Colorization Network for Visual-textual Presentation Design**  
 Xuyong Yang, Xiaobin Xu, Yaohong Huang, Nenghai Yu  
-_Chinese Conference on Pattern Recognition and Computer Vision_ (PRCV), 2021
+_Chinese Conference on Pattern Recognition and Computer Vision_ (**PRCV**), 2021
 
 **Specular Highlight Reduction With Known Surface Geometry**  
 Xing Wei\*, **Xiaobin Xu**\*, Jiawei Zhang, Yihong Gong  
